@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ajitha Rajkumar</h1>
 
-- 🌱 I’m currently learning **Data Science and Deep Learning**
-
-- 📫 How to reach me **ajitha@ieee.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
